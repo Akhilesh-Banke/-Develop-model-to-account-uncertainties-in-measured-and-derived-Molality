@@ -1,4 +1,4 @@
-# -Develop-model-to-account-uncertainties-in-Molality
+# Develop model to account uncertainties in Molality
 📌 Project Overview
 This project addresses the challenge of uncertainty in molality—an essential physicochemical property—by combining error propagation analysis, statistical modeling, and a Python-based GUI application. It streamlines experimental workflows by reducing the need for extensive trials while ensuring high accuracy and reproducibility.
 
